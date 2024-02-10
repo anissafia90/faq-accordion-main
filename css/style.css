@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/assets/images/background-pattern-desktop.svg);
+    background-image: url(./assets/images/background-pattern-desktop.svg);
     background-attachment: fixed;
     background-position: top;
     background-size:100%;
